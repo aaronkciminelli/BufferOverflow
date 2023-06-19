@@ -1,0 +1,16 @@
+﻿  SQLInjection.cpp
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(102,3): error C3927: '->': trailing return type is not allowed after a non-function declarator
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(102,10): error C3484: syntax error: expected '->' before the return type
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(102,11): error C3613: missing return type after '->' ('int' assumed)
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(102,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(102,11): error C2146: syntax error: missing ';' before identifier 'clear'
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(105,3): error C2059: syntax error: 'if'
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(106,3): error C2143: syntax error: missing ';' before '{'
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(106,3): error C2447: '{': missing function header (old-style formal list?)
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(112,3): error C2059: syntax error: 'return'
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(113,1): error C2059: syntax error: '}'
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(113,1): error C2143: syntax error: missing ';' before '}'
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(117,1): error C2143: syntax error: missing ';' before '{'
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(117,1): error C2447: '{': missing function header (old-style formal list?)
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(183,10): error C3861: 'run_query_injection': identifier not found
+\\Mac\Home\Desktop\CS 405 M2 SQLInjection code files 2\SQLInjection.cpp(194,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
